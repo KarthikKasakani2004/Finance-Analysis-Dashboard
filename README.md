@@ -99,6 +99,23 @@ These values represent the full cleaned dataset with no report filters applied.
 - Data cleaning activities.
 - Business recommendations.
 
+## Dashboard Preview
+
+### 1. Home Page
+![Finance Dashboard Home Page](Screenshots/Home.jpg)
+
+### 2. Executive Overview
+![Executive Overview](Screenshots/Executive%20Overview.jpg)
+
+### 3. Customer & Transaction Analysis
+![Customer and Transaction Analysis](Screenshots/Customer%20%26%20Transaction%20Analysis.jpg)
+
+### 4. Loan & Risk Analysis
+![Loan and Risk Analysis](Screenshots/Loan%20%26%20Risk%20Analysis.jpg)
+
+### 5. Insights & Data Quality
+![Insights and Data Quality](Screenshots/Insights%20%26%20Data%20Quality.jpg)
+
 ## Key Business Insights
 
 - The cleaned dataset contains 19,770 analytical transaction records, with a total transaction value of approximately ₹41.66 million.
